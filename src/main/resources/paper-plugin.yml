@@ -1,0 +1,6 @@
+name: DatapackLoader
+version: '${version}'
+main: dev.mimi.datapackloader.DatapackLoaderPlugin
+bootstrapper: dev.mimi.datapackloader.DatapackLoaderBootstrap
+api-version: '26.3'
+description: Loads datapacks from the plugin folder instead of the world directory.
